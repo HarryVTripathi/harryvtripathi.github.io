@@ -1,32 +1,12 @@
-## 👋 Hi, I'm Harsh Tripathi - Weaving Stories from Data! 📊✨
+# React + Vite
 
-## About Me
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-I'm a Data Scientist passionate about uncovering insights and driving decisions through data. With 6 years of experience, I've honed my skills in machine learning, statistical modeling, and data visualization to transform complex datasets into actionable solutions. I thrive on tackling challenging problems and am always eager to learn and explore new technologies in the ever-evolving world of data.
+Currently, two official plugins are available:
 
-## 🚀 Projects
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Here are a few projects I'm proud of:
+## Expanding the ESLint configuration
 
-- **Vegetable Classification:** [e.g., Customer Churn Prediction] - [Developed a model to predict customer churn with X% accuracy, enabling proactive retention strategies.] - [Link to Project Repository/Live Demo]
-
-
-## 🛠️ My Toolkit
-
-**Programming Languages:** Python (Pandas, NumPy, Scikit-learn, TensorFlow/Keras, PyTorch), R, SQL
-**Machine Learning:** Regression, Classification, Clustering, NLP, Time Series Analysis, Deep Learning
-**Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau
-**Tools & Platforms:** Jupyter Notebooks, Git, Docker, AWS (Sagemaker, S3), Azure ML, Databricks
-**Databases:** PostgreSQL, MySQL, MongoDB
-**Other:** Statistical Analysis, A/B Testing, Data Wrangling, Feature Engineering
-
-## 💡 Let's Connect!
-
-I'm always open to discussing new projects, collaborations, or just chatting about data science!
-
-- **LinkedIn:** [Harrsh Tripathi](https://www.linkedin.com/in/harrsh-tripathi-a2455312b/)
-- **Email:** t.harsh96@gmail.com
-
-
-<!-- ---
-*Looking for opportunities in [mention specific roles or industries you're interested in, e.g., "AI-driven healthcare solutions" or "e-commerce analytics"].* -->
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
